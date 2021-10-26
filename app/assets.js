@@ -116,3 +116,7 @@ var uiPanelTextureFile="assets/ui_panel.png";
 var logoTextureFile="assets/logo-min.png";
 var uiBoxTextureFile="assets/ui_box.png";
 var uiBalanceTextureFile="assets/ui_balance.png";
+
+var uiGirlSpriteTextureFile="assets/ui_girl.png";
+var uiHandSpriteTextureFile="assets/ui_hand.png";
+var uiAlertSpriteTextureFile="assets/ui_alert.png";
