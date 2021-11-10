@@ -139,7 +139,7 @@ var uiPrice2TextureFile="assets/ui_price2.png";
 var uiPrice3TextureFile="assets/ui_price3.png";
 
 
-
+var uiCoinTextureFile="assets/ui_coin.png";
 
 
 
