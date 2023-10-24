@@ -1,3 +1,3 @@
-# Playable ads game producing 
+# Playable ads game production
 
 online : https://neuromodern.github.io/sosPlayableADGame/
